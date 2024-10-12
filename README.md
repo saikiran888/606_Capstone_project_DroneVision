@@ -106,9 +106,4 @@ This dataset is ideal for training and testing segmentation and object detection
 - Incorporate **thermal imagery** for better detection in low-visibility conditions.
 - Implement **real-time tracking** of objects to enhance defense applications.
 
----
 
-
-
-
-**Follow our progress** on [GitHub](https://github.com/saikiran888/DroneVision).
