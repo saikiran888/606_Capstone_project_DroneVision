@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/c26fdd29-1e2a-4be8-aa3b-d24f62d39049)
+
+
 # 🚁 DroneVision - Secure Drone Segmentation for Rescue and Defence 🛡️
 
 **Team Members:**
@@ -83,7 +86,6 @@ This dataset is ideal for training and testing segmentation and object detection
 - **Visualization Tools**: Power BI, Matplotlib, Seaborn
 
 ---
-
 
 
 ## 🖼️ Example Images
