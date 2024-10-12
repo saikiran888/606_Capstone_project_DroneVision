@@ -88,11 +88,12 @@ This dataset is ideal for training and testing segmentation and object detection
 
 ## 🖼️ Example Images
 
-![Segmentation Example](https://example.com/segmentation_image.jpg)
-> *Figure 1: Semantic segmentation of drone-captured images*
+![Segmentation Example](![image](https://github.com/user-attachments/assets/82336366-9520-44d6-9dc1-94d87eb05c6b))
+> *Figure 1: drone-captured images*
 
-![Object Detection Example](https://example.com/detection_image.jpg)
-> *Figure 2: Object detection for people and vehicles in a rescue operation*
+![Object Detection Example](![image](https://github.com/user-attachments/assets/aeb4b46a-634e-486f-9bb2-00c4c6817586)
+)
+> *Figure 2: Semantic segmentation of people*
 
 ---
 
