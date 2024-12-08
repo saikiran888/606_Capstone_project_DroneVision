@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/c26fdd29-1e2a-4be8-aa3b-d24f62d39049)
+![image](https://github.com/user-attachments/assets/e6edfa12-d167-4b1d-8d78-accc2209e3e5)
+
 
 
 # 🚁 DroneVision - Secure Drone Segmentation for Rescue and Defence 🛡️
