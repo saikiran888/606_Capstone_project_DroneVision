@@ -95,11 +95,16 @@ This dataset is ideal for training and testing segmentation and object detection
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🌐 Web Application Deployment
 
 This app performs semantic segmentation on drone images using state-of-the-art deep learning models, identifying and classifying key areas within the scene.
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/a8714364-0a03-4a07-a9b1-a640ea7dcdf7" alt="Web Application Interface" width="600">
+  <p><em>Interactive Web Application for Drone Image Segmentation</em></p>
+</div>
 
 ### How to Use:
 1. **Select a Model**: Choose a segmentation model from the dropdown menu.  
